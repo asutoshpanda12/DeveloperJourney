@@ -1,9 +1,28 @@
 # Developer Journey
 
-This repository contains my complete software engineering learning journey.
+## About Me
 
-Started on:
-1 July 2026
+## Goal
 
-Goal:
-Become a professional backend software engineer.
+## Roadmap
+
+## Technologies I Will Learn
+
+- Git
+- GitHub
+- Java
+- SQL
+- Spring Boot
+- REST APIs
+- Docker
+- React
+- PostgreSQL
+
+## Progress
+
+- [x] Development Environment
+- [x] Git Setup
+- [ ] Git Branches
+- [ ] Java Basics
+- [ ] SQL
+- [ ] REST APIs
