@@ -2,3 +2,5 @@ Note 1 :> we can directly push to the main branch , so we need to check first th
 we are there using "git branch".
 
 Note 2 : we can add it to the subbranch then we can merge them both.
+
+Note 3 : Adding the code first to the subbranch then merging it to main branch
