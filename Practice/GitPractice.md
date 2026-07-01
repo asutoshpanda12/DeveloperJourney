@@ -3,4 +3,4 @@ we are there using "git branch".
 
 Note 2 : we can add it to the subbranch then we can merge them both.
 
-Note 3 : Adding the code first to the subbranch then merging it to main branch
+Note 3 : Adding the code first to the subbranch then merging it to main branchs
